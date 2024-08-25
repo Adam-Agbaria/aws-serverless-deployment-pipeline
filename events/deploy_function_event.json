@@ -1,0 +1,7 @@
+{
+    "deployment_group": "MyDeploymentGroup",
+    "application_name": "MyApplication",
+    "s3_bucket": "my-bucket",
+    "s3_key": "my-artifact.zip"
+}
+  

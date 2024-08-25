@@ -1,0 +1,13 @@
+{
+    "operation": "update",
+    "pipeline_id": "123",
+    "pipeline_data": {
+      "name": "MyUpdatedPipeline",
+      "description": "Updated pipeline",
+      "config": {
+        "stage": "prod",
+        "region": "us-west-2"
+        }
+    }
+}
+  

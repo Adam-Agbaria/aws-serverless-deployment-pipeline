@@ -1,0 +1,12 @@
+{
+  "operation": "create",
+  "pipeline_data": {
+    "pipeline_id": "123",
+    "name": "MyPipeline",
+    "description": "Test pipeline",
+    "config": {
+      "stage": "dev",
+      "region": "us-east-1"
+    }
+  }
+}
