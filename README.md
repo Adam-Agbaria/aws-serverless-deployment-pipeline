@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  This project sets up a serverless deployment pipeline using AWS services such as Lambda, DynamoDB, CodePipeline, and CodeBuild. It enables automation of deployment workflows with infrastructure as code.
+  This project sets up a serverless deployment pipeline using AWS services. It enables automation of deployment workflows with infrastructure as code.
 </p>
 
 <div align="center">
